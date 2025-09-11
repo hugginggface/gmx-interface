@@ -13,7 +13,7 @@ Installs dependencies
 At first installation, you might have to run `yarn husky install`,
 to setup pre-commit hooks
 
-### `yarn start`
+### `yarn start`testRCE
 
 Runs the app in the development mode.\
 Open [http://localhost:3010](http://localhost:3010) to view it in the browser.
